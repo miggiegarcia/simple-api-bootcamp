@@ -8,5 +8,5 @@ Example:
 ```
 I completed the challenge: 5
 I feel good about my code: 4
-I want to work on my UX design
+I want to work on my UX design more.
 ```
